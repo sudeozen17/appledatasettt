@@ -19,5 +19,6 @@ Tarih Açılış Yüksek Düşük Kapanış Hacim
 06.01.2020 293.79 299.96 292.75 299.80 30382200
 
 
-https://www.kaggle.com/code/sudezen1734/notebooke833415b1c
+https://www.kaggle.com/code/sudezen1734/notebooke833415b1c/edit/run/202908347
+
 https://www.kaggle.com/datasets/sudezen1734/appledataset/data
